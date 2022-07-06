@@ -4,7 +4,7 @@
 	<groupId>in.shan5a6</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
-	<version>12.13.14.200</version>
+	<version>12.13.0</version>
 	<name>myweb Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
